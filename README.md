@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [coming soon.....](coming soon.....)
 
-- 💬 Ask me about **Python, Github,Vs Code, Automation, Begineer project.**
+- 💬 Ask me about **Python, Github,Vs Code, Automation, editing , Begineer project.**
 
 - 📫 How to reach me **shivanshpardeshi90@gmail.com**
 
